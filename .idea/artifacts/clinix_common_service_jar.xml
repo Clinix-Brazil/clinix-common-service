@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="clinix-common-service:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/clinix_common_service_jar</output-path>
+    <root id="archive" name="clinix-common-service.jar">
+      <element id="module-output" name="clinix-common-service" />
+    </root>
+  </artifact>
+</component>
